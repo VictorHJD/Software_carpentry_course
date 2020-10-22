@@ -10,4 +10,4 @@
 4. Git part 1
 
 ## *Day 4*
-5. Git part 2 (solve conlficts)
+5. Git part 2 (solve conflicts)
