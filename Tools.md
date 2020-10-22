@@ -4,3 +4,9 @@
 - Vim
 - Emacs
 - Nano
+
+## *Programming lenguages*
+- Bash
+- Python
+- R
+- Java
