@@ -15,3 +15,8 @@ git add *
 ## *5. Commit changes*
 git commit -m "message"
  
+## *6. Check the history of the repo*
+git log
+
+## *7. Rename a file and keep the history of the particular file*
+git mv file1 file2
