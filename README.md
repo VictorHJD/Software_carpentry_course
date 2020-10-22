@@ -1,5 +1,9 @@
 # **Software carpentry course**
-Exercises from the Software carpentry course 
+Exercises from the Software carpentry course
+
+-----
+
+
 This repo contains:
 
 1. List of tools
