@@ -1,2 +1,2 @@
-# Software_carpentry_course
+# **Software carpentry course**
 Exercises from the Software carpentry course 
